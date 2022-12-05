@@ -33,6 +33,9 @@ public class Zadanie1 {
 
         int car, human, tv;
 
+        // https://github.com/przemjan/czwartigr32022
 
+
+        // 5,6,8,13,21
     }
 }

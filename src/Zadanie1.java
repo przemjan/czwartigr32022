@@ -37,5 +37,6 @@ public class Zadanie1 {
 
 
         // 5,6,8,13,21
+        // 7, 9--
     }
 }

@@ -31,5 +31,7 @@ public class Odczyt2 {
         //petleWstep 1,2, 12,13,14
         //zadania7:  2,3, 5,6, 8, 17,18, 21, 22, 23
 
+        // https://github.com/przemjan/czwartigr32022
+
     }
 }
